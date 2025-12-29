@@ -1,0 +1,12 @@
+D:\_Development Vault\_Test\ERPApp\Domain\bin\Debug\net8.0\ERPAppDomain.deps.json
+D:\_Development Vault\_Test\ERPApp\Domain\bin\Debug\net8.0\ERPAppDomain.dll
+D:\_Development Vault\_Test\ERPApp\Domain\bin\Debug\net8.0\ERPAppDomain.pdb
+D:\_Development Vault\_Test\ERPApp\Domain\obj\Debug\net8.0\ERPAppDomain.csproj.AssemblyReference.cache
+D:\_Development Vault\_Test\ERPApp\Domain\obj\Debug\net8.0\ERPAppDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Development Vault\_Test\ERPApp\Domain\obj\Debug\net8.0\ERPAppDomain.AssemblyInfoInputs.cache
+D:\_Development Vault\_Test\ERPApp\Domain\obj\Debug\net8.0\ERPAppDomain.AssemblyInfo.cs
+D:\_Development Vault\_Test\ERPApp\Domain\obj\Debug\net8.0\ERPAppDomain.csproj.CoreCompileInputs.cache
+D:\_Development Vault\_Test\ERPApp\Domain\obj\Debug\net8.0\ERPAppDomain.dll
+D:\_Development Vault\_Test\ERPApp\Domain\obj\Debug\net8.0\refint\ERPAppDomain.dll
+D:\_Development Vault\_Test\ERPApp\Domain\obj\Debug\net8.0\ERPAppDomain.pdb
+D:\_Development Vault\_Test\ERPApp\Domain\obj\Debug\net8.0\ref\ERPAppDomain.dll

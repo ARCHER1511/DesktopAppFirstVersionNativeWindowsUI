@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Application/ERPAppApplication.csproj" />
+  <Project Path="Domain/ERPAppDomain.csproj" />
+  <Project Path="ERPApp/ERPApp.csproj" />
+  <Project Path="Infrastructure/ERPAppInfrastructure.csproj" />
+</Solution>
